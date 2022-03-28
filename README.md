@@ -17,7 +17,7 @@ python3 candump.py
 ```
 
 # Parameters
-You can change your differents parameter, base on your setup, at the top of the file candump.py :<br/>
+You can change your differents parameters, based on your setup, at the top of the file candump.py :<br/>
 **can_name** = 'can0'<br/>
 **bus_type** = 'socketcan'<br/>
 **baudrate** = '1000000'<br/>
