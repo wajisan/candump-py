@@ -1,7 +1,7 @@
-# candump-py
+# What is this ?
 This script works like the command "candump [port]" from [Linux CAN-UTILS](https://github.com/linux-can/can-utils)<br/>
-the difference is that it will also init your **CAN** name, set up to a specific **baudrate** and on a specific **bus type**<br/>
-you can also choose the time format (timestamp or human)<br/>
+The main difference is that it will also init your **CAN IP** base on a name, set up to a specific **baudrate** and on a specific **bus type** of your choice.<br/>
+You can also choose the time format (timestamp or human) of the receive datas<br/>
 
 # Dependencies
 You will need to install **python-can** and **socketcan** for **Python3**
